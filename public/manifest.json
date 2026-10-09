@@ -1,0 +1,18 @@
+{
+  "short_name": "Date Cards",
+  "name": "Date Cards — Карты для свиданий",
+  "description": "Карточная игра для пар: искренние, романтичные и глубокие вопросы при свечах",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1A1715",
+  "theme_color": "#1A1715",
+  "display": "standalone",
+  "orientation": "portrait"
+}
